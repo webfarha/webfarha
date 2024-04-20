@@ -20,7 +20,8 @@ We store your guild ID for an indefinite period to ensure that the anti-ghostpin
 
 - How to request data deletion?
 
-If you want your data deleted, you can contact us through our support server at https://discord.gg/NnJRFRtj9w. Our staff or moderators will be happy to assist you with your request.
+If you want your data deleted, you can simply delete it by disabling the anti-ghost ping.
 
 Thank you for using Sniper Bot. 
-                                                                                                                                                                                      
+
+last updated - april 21, 2024                                                                                                                                                                            
