@@ -10,6 +10,6 @@ The Bot has a feature that stores Guild ID(s) for anti-ghost ping. When this fea
 We reserve the right to modify these Terms at any time. We advise you to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
 
 ## 4. Contact Us
-If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us on our support server.
+If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us on our support server(https://discord.com/invite/yZMSNf9j7t).
 
 _Last updated: April 21, 2024_
