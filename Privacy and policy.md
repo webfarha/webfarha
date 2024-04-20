@@ -24,7 +24,7 @@ If you want your data deleted, you can simply delete it by disabling the anti-gh
 
 - Need a support?
 
-do you have any question? don't worry, you can simply join our support server and ask in the server channel or you can directly dm me.
+do you have any question? don't worry, you can simply join our support server(https://discord.com/invite/yZMSNf9j7t) and ask in the server channel or you can directly dm me.
 
 Thank you for using Sniper Bot. 
 
