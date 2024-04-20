@@ -1,4 +1,4 @@
- Terms of Service
+# Terms of Service
 
 ## 1. Introduction
 Welcome to our Discord bot sniper. This document constitutes the Terms of Service ("Terms") governing the use of our Discord bot sniper ("the Bot"). By using the Bot, you agree to these Terms.
