@@ -28,4 +28,4 @@ do you have any question? don't worry, you can simply join our support server(ht
 
 Thank you for using Sniper Bot. 
 
-last updated - april 21, 2024                                                                                                                                                                            
+__Last Updated - April 21, 2024__                                                                                                                                                                            
